@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DIT9EJ3ENT/1.0.0": {
+        "runtime": {
+          "DIT9EJ3ENT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIT9EJ3ENT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

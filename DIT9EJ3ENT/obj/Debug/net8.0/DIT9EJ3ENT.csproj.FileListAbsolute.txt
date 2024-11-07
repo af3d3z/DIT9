@@ -1,0 +1,11 @@
+C:\Users\th3-m0th\source\repos\af3d3z\DIT9EJ3ENT\bin\Debug\net8.0\DIT9EJ3ENT.deps.json
+C:\Users\th3-m0th\source\repos\af3d3z\DIT9EJ3ENT\bin\Debug\net8.0\DIT9EJ3ENT.dll
+C:\Users\th3-m0th\source\repos\af3d3z\DIT9EJ3ENT\bin\Debug\net8.0\DIT9EJ3ENT.pdb
+C:\Users\th3-m0th\source\repos\af3d3z\DIT9EJ3ENT\obj\Debug\net8.0\DIT9EJ3ENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\th3-m0th\source\repos\af3d3z\DIT9EJ3ENT\obj\Debug\net8.0\DIT9EJ3ENT.AssemblyInfoInputs.cache
+C:\Users\th3-m0th\source\repos\af3d3z\DIT9EJ3ENT\obj\Debug\net8.0\DIT9EJ3ENT.AssemblyInfo.cs
+C:\Users\th3-m0th\source\repos\af3d3z\DIT9EJ3ENT\obj\Debug\net8.0\DIT9EJ3ENT.csproj.CoreCompileInputs.cache
+C:\Users\th3-m0th\source\repos\af3d3z\DIT9EJ3ENT\obj\Debug\net8.0\DIT9EJ3ENT.dll
+C:\Users\th3-m0th\source\repos\af3d3z\DIT9EJ3ENT\obj\Debug\net8.0\refint\DIT9EJ3ENT.dll
+C:\Users\th3-m0th\source\repos\af3d3z\DIT9EJ3ENT\obj\Debug\net8.0\DIT9EJ3ENT.pdb
+C:\Users\th3-m0th\source\repos\af3d3z\DIT9EJ3ENT\obj\Debug\net8.0\ref\DIT9EJ3ENT.dll
