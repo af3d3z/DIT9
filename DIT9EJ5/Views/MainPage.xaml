@@ -1,13 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vmodel="clr-namespace:DIT9EJ5.ViewModels"
              x:Class="DIT9EJ5.Views.MainPage">
+
+    <ContentPage.BindingContext>
+        <vmodel:ListadoPersonasVM/>
+    </ContentPage.BindingContext>
 
     <ScrollView>
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-            
+            <ListView ItemsSource="{Binding Personas}" ItemTapped="Pulsacion">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Spacing="5">
+                                <Image Source="{Binding ImgURL}" HeightRequest="30" WidthRequest="30"></Image>
+                                <Label Text="{Binding NombreCompleto}" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </VerticalStackLayout>
     </ScrollView>
 

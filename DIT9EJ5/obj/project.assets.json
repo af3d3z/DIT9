@@ -33055,11 +33055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\th3-m0th\\source\\repos\\af3d3z\\DIT9EJ5\\DIT9EJ5.csproj",
+      "projectUniqueName": "C:\\Users\\th3-m0th\\source\\repos\\af3d3z\\DITema9\\DIT9EJ5\\DIT9EJ5.csproj",
       "projectName": "DIT9EJ5",
-      "projectPath": "C:\\Users\\th3-m0th\\source\\repos\\af3d3z\\DIT9EJ5\\DIT9EJ5.csproj",
+      "projectPath": "C:\\Users\\th3-m0th\\source\\repos\\af3d3z\\DITema9\\DIT9EJ5\\DIT9EJ5.csproj",
       "packagesPath": "C:\\Users\\th3-m0th\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\th3-m0th\\source\\repos\\af3d3z\\DIT9EJ5\\obj\\",
+      "outputPath": "C:\\Users\\th3-m0th\\source\\repos\\af3d3z\\DITema9\\DIT9EJ5\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
